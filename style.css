@@ -7,6 +7,14 @@ body {
     color: white;
     }
 
+div {
+    font-size: 30px;
+}
+
+.callout {
+    font-size: 30px; 
+}
+
 H1 {
    color: #504e4e; 
 }
